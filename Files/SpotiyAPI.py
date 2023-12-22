@@ -13,8 +13,8 @@ def GetTitle(artists, SongName):
 
 
 def getMusic(LINK, NUM, COUNT):
-    CLIENT_ID = "9717e2e3a189466990a23fc7a0128bc8"
-    CLIENT_SECRET = "44817ba8434840ec8db6243a0849f809"
+    CLIENT_ID = "Your API key"
+    CLIENT_SECRET = "Your API key"
    
     
 
